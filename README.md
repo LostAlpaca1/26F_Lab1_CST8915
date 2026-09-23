@@ -706,3 +706,7 @@ Open **All resources** in the subscription you used and check for anything creat
 - [ ] Your demo video and submission files are saved and accessible.
 - [ ] All Azure resources created for this lab have been deleted, including any created outside the dedicated group.
 - [ ] The dedicated lab resource group has been deleted, if you used one.
+
+## Demo Video
+
+[Watch my Lab 1 Pet Store Demo on YouTube](https://youtu.be/Wdh3bbhf8Q8)
